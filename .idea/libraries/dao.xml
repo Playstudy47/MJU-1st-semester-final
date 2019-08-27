@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dao">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/bin/dao" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
